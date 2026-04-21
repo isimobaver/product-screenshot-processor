@@ -1,11 +1,5 @@
 <img width="1916" height="1011" alt="لقطة شاشة 2026-04-21 111947" src="https://github.com/user-attachments/assets/d59e897c-7814-4517-8b48-0b5ddd2bed73" />
-
-
-
-
-
-
-
+<div  height="50"></div>
 # 🖼️ Product Screenshot Processor
 
 <div align="center">
