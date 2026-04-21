@@ -1,5 +1,5 @@
 <img width="1916" height="1011" alt="لقطة شاشة 2026-04-21 111947" src="https://github.com/user-attachments/assets/d59e897c-7814-4517-8b48-0b5ddd2bed73" />
-<div  height="50"></div>
+<br>
 # 🖼️ Product Screenshot Processor
 
 <div align="center">
@@ -49,27 +49,17 @@ Product Screenshot  →  Draw Crop  →  OCR  →  Excel Export
 
 1
 <img width="800"  alt="لقطة شاشة 2026-04-21 111947" src="https://github.com/user-attachments/assets/d59e897c-7814-4517-8b48-0b5ddd2bed73" />
-
-
-
-
+<br>
 2
 <img width="800"  alt="لقطة شاشة 2026-04-21 112006" src="https://github.com/user-attachments/assets/3b9a3966-83c2-4f73-a8a2-a71c8e79ecc9" />
-
-
-
-
+<br>
 3
 <img width="389" height="953" alt="لقطة شاشة 2026-04-21 112022" src="https://github.com/user-attachments/assets/9ab2ba83-2958-4957-856f-7f4838429196" />
-
-
-
-
+<br>
 4
 <img width="800" alt="لقطة شاشة 2026-04-21 112038" src="https://github.com/user-attachments/assets/62e0c591-453c-4e05-933d-773d72f0ea6d" />
 
-
-
+<br>
 ```
 
 ┌─────────────────────────────────────────────────────────────────┐
