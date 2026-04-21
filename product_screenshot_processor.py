@@ -19,7 +19,8 @@ import sys, io, os, re, threading, queue
 from datetime import datetime
 
 # Force UTF-8 on Windows consoles
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+if sys.stdout and hasattr(sys.stdout, 'buffer'):
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
 # ── third-party ───────────────────────────────────────────────────────────────
 import cv2
