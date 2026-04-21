@@ -46,7 +46,14 @@ Product Screenshot  →  Draw Crop  →  OCR  →  Excel Export
 
 ## 🖥️ Screenshots
 
+
+<img width="1000"  alt="لقطة شاشة 2026-04-21 111947" src="https://github.com/user-attachments/assets/d59e897c-7814-4517-8b48-0b5ddd2bed73" />
+
+
+<img width="1000"  alt="لقطة شاشة 2026-04-21 112006" src="https://github.com/user-attachments/assets/3b9a3966-83c2-4f73-a8a2-a71c8e79ecc9" />
+
 ```
+
 ┌─────────────────────────────────────────────────────────────────┐
 │  Product Processor  v3.0          [Export Excel] [Tesseract OK] │
 ├──────────────┬──────────────────────────────┬───────────────────┤
