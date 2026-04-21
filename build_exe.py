@@ -21,7 +21,7 @@ cmd = [
     "--onefile",                        # single .exe
     "--windowed",                       # no console window
     "--name", APP_NAME,
-    "--add-data", "assets;assets",      # bundle assets folder (Windows: semicolon)
+    #"--add-data", "assets;assets",      # bundle assets folder (Windows: semicolon)
     "--hidden-import", "PIL._tkinter_finder",
     "--hidden-import", "openpyxl",
     "--hidden-import", "pandas",
